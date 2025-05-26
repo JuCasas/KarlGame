@@ -4,6 +4,7 @@
  <text speaker="Narrador">Al abrir la segunda sección del misterioso libro, las páginas comienzan a brillar con una luz dorada. De repente, me encuentro transportado al año 1878, en medio del desierto de Atacama...</text>
 
  <image name="transicion_viaje_tiempo" />
+ <text speaker="Narrador">El viento del desierto me golpea el rostro mientras la realidad se transforma ante mis ojos. Estoy a punto de presenciar uno de los conflictos más importantes de la historia sudamericana.</text>
 
  <!-- Escena 2: El desierto de Atacama, 1878 -->
  <image name="desierto_atacama_trabajadores" />
@@ -11,6 +12,7 @@
  <text speaker="Trabajador">Este salitre vale oro, muchacho. Se usa para hacer fertilizantes y pólvora. Bolivia, Chile y Perú pelean por controlarlo.</text>
 
  <image name="mapa_region_disputa" />
+ <text speaker="Narrador">Las tensiones políticas y económicas se intensifican día a día. El "oro blanco" del desierto desatará una guerra que cambiará para siempre el mapa de Sudamérica.</text>
 
  <!-- Escena 3: Antofagasta, febrero de 1879 -->
  <image name="puerto_antofagasta_ocupacion" />
@@ -19,6 +21,7 @@
  <text speaker="Ciudadano boliviano">¡Esto es una invasión! ¡Perú debe ayudarnos según nuestro tratado secreto!</text>
 
  <image name="tratado_secreto_peru_bolivia_1873" />
+ <text speaker="Narrador">Las alianzas secretas salen a la luz. El pacto entre Perú y Bolivia de 1873 arrastrará a tres naciones hacia un conflicto inevitable.</text>
 
  <!-- Escena 4: Lima, Palacio de Gobierno -->
  <image name="palacio_gobierno_lima" />
@@ -26,11 +29,14 @@
  <text speaker="Ministro">Señor Presidente, Chile ha declarado la guerra el 5 de abril de 1879. Ya no hay vuelta atrás.</text>
 
  <image name="decreto_guerra_chile_1879" />
+ <text speaker="Narrador">La diplomacia ha fallado. La Guerra del Pacífico ha comenzado oficialmente, y tres naciones se preparan para un conflicto que durará más de cuatro años.</text>
 
  <!-- Escena 5: Puerto del Callao, preparativos navales -->
  <image name="puerto_callao_huascar_independencia" />
  <text speaker="Narrador">La primera fase será naval. Chile tiene ventaja con sus acorazados modernos 'Cochrane' y 'Blanco Encalada', pero Perú cuenta con valientes marinos.</text>
  <text speaker="Marino peruano">Nuestro 'Huáscar' y la 'Independencia' defenderán el honor patrio. El comandante Miguel Grau es el mejor marino de estas aguas.</text>
+
+ <text speaker="Narrador">El destino de la guerra dependerá inicialmente del control de los mares. Quien domine las aguas podrá transportar tropas y suministros a voluntad.</text>
 
  <!-- Escena 6: Combate Naval de Iquique, 21 de mayo de 1879 -->
  <image name="combate_naval_iquique" />
@@ -38,6 +44,7 @@
  <text speaker="Narrador">Con una maniobra audaz, Grau logra hundir la 'Esmeralda' chilena, pero en Punta Gruesa se pierde la 'Independencia' al encallar.</text>
 
  <image name="independencia_encallada_punta_gruesa" />
+ <text speaker="Narrador">El 21 de mayo marca un día heroico pero agridulce. Mientras Grau triunfa en Iquique, la pérdida de la 'Independencia' equilibra dramáticamente las fuerzas navales.</text>
 
  <!-- Escena 7: A bordo del Huáscar, meses después -->
  <image name="grau_escribiendo_carta_camarote" />
@@ -45,6 +52,7 @@
  <text speaker="Narrador">Grau convierte al 'Huáscar' en el terror de las costas chilenas, pero su nobleza lo distingue incluso ante el enemigo.</text>
 
  <image name="grau_entregando_objetos_personales" />
+ <text speaker="Narrador">Durante meses, el 'Huáscar' surca los mares como un fantasma, atacando puertos y buques chilenos. Grau se convierte en leyenda, respetado incluso por sus enemigos por su caballerosidad.</text>
 
  <!-- Escena 8: Combate de Angamos, 8 de octubre de 1879 -->
  <image name="huascar_rodeado_angamos" />
@@ -53,11 +61,14 @@
  <image name="muerte_heroica_grau" />
  <text speaker="Narrador">El 'Huáscar' es capturado tras heroica resistencia. Con la muerte de Grau, Chile domina el mar. La fase naval ha terminado.</text>
 
+ <text speaker="Narrador">La muerte del 'Caballero de los Mares' marca el fin de la esperanza naval peruana. Chile ahora controla completamente el océano Pacífico, abriendo el camino para la invasión terrestre.</text>
+
  <!-- Escena 9: Desembarco chileno en Pisagua, 2 de noviembre de 1879 -->
  <image name="desembarco_tropas_chilenas_pisagua" />
  <text speaker="General chileno">Ahora que controlamos el mar, podemos transportar nuestras tropas. ¡Comenzamos la campaña terrestre!</text>
 
  <image name="mapa_avance_chileno_sur_peru" />
+ <text speaker="Narrador">Con el dominio naval asegurado, Chile puede desembarcar sus ejércitos donde desee. La guerra entra en su segunda fase: la campaña terrestre que decidirá el destino de las provincias salitreras.</text>
 
  <!-- Escena 10: Batalla de Tarapacá, 27 de noviembre de 1879 -->
  <image name="caceres_dirigiendo_tropas_tarapaca" />
@@ -65,6 +76,7 @@
  <text speaker="Narrador">En Tarapacá, las tropas de Cáceres logran una victoria, pero no pueden cambiar el curso de la guerra.</text>
 
  <image name="soldados_peruanos_victoriosos_exhaustos" />
+ <text speaker="Narrador">La victoria de Tarapacá levanta momentáneamente la moral peruana, pero es solo un respiro en medio de la adversidad. Los recursos chilenos son superiores y su avance continúa.</text>
 
  <!-- Escena 11: Batalla de Tacna, 26 de mayo de 1880 -->
  <image name="campo_alianza_batalla_tacna" />
@@ -73,14 +85,17 @@
  <image name="bolognesi_espada_alto_defensa" />
  <text speaker="Narrador">En el 'Campo de la Alianza', las fuerzas aliadas son derrotadas. Bolivia se retira de la guerra.</text>
 
+ <text speaker="Narrador">La derrota en Tacna es devastadora para la alianza. Bolivia, agotada y sin esperanzas, abandona el conflicto, dejando a Perú solo frente al poderío chileno.</text>
+
  <!-- Escena 12: Defensa de Arica, 7 de junio de 1880 -->
  <image name="morro_arica_soldados_defendiendo" />
- <text speaker="Coronel Bolognesi">¡Defendamos Arica hasta el último hombre!</text>
+ <text speaker="Coronel Francisco Bolognesi">¡Defendamos Arica hasta el último hombre!</text>
 
  <image name="asalto_final_morro_arica" />
  <text speaker="Narrador">Tras heroica resistencia, Arica cae. El coronel Bolognesi muere defendiendo la plaza. Alfonso Ugarte se lanza al precipicio antes que entregar la bandera.</text>
 
  <image name="ugarte_saltando_morro_bandera" />
+ <text speaker="Narrador">El Morro de Arica se convierte en símbolo del heroísmo peruano. La muerte de Bolognesi y el sacrificio de Ugarte quedan grabados para siempre en la memoria nacional como ejemplos supremos de honor y patriotismo.</text>
 
  <!-- Escena 13: Campaña de Lima, enero de 1881 -->
  <image name="panoramica_lima_tropas_chilenas" />
@@ -89,12 +104,16 @@
  <image name="batalla_san_juan_soldados" />
  <text speaker="Reservista peruano">¡Defenderemos nuestra capital! ¡Que viva el Perú!</text>
 
+ <text speaker="Narrador">La decisión chilena de atacar Lima marca un punto de no retorno. Ya no se trata solo de las provincias salitreras, sino del corazón mismo del Perú. La capital debe defenderse a cualquier costo.</text>
+
  <!-- Escena 14: Ocupación de Lima, enero de 1881 -->
  <image name="tropas_chilenas_entrando_lima" />
  <text speaker="Narrador">El 17 de enero de 1881, las tropas chilenas ocupan Lima. El presidente Piérola huye a la sierra. Parece que la guerra ha terminado, pero...</text>
 
  <image name="caceres_montanas_campesinos" />
- <text speaker="Cáceres">La guerra no ha terminado. Desde la sierra continuaremos la resistencia.</text>
+ <text speaker="Coronel Cáceres">La guerra no ha terminado. Desde la sierra continuaremos la resistencia.</text>
+
+ <text speaker="Narrador">La caída de Lima parece sellar el destino del Perú, pero en las montañas andinas surge una nueva esperanza. La guerra convencional ha terminado, pero la resistencia guerrillera apenas comienza.</text>
 
  <!-- Escena 15: La resistencia en la sierra -->
  <image name="caceres_guerrilleros_campesinos_sierra" />
@@ -102,19 +121,25 @@
  <text speaker="Campesino indígena">Taita Cáceres, nosotros pelearemos por nuestra tierra.</text>
 
  <image name="batalla_guerrillas_territorio_serrano" />
+ <text speaker="Narrador">En la sierra peruana nace una guerra diferente. Los campesinos indígenas, que conocen cada sendero y cada cueva, se convierten en los mejores aliados de la resistencia patriótica.</text>
 
  <!-- Escena 16: Batalla de La Breña, julio de 1882 -->
- <image name="combate_terreno_montanoso" />
- <text speaker="Cáceres">¡Conocemos estas montañas mejor que nadie! ¡Atacamos!</text>
+ <image name="batalla_guerrillas_territorio_serrano" />
+ <text speaker="Coronel Cáceres">¡Conocemos estas montañas mejor que nadie! ¡Atacamos!</text>
  <text speaker="Narrador">En las batallas de Pucará, Marcavalle y Concepción, las tropas de Cáceres demuestran que la resistencia continúa.</text>
+
+ <text speaker="Narrador">La Campaña de la Breña transforma a Cáceres en leyenda. Sus victorias en territorio serrano demuestran que el espíritu peruano permanece invicto, obligando a Chile a reconocer que la ocupación total es imposible.</text>
 
  <!-- Escena 17: El final de la guerra -->
  <image name="firma_tratado_ancon_1883" />
  <text speaker="Narrador">Finalmente, el 20 de octubre de 1883 se firma el Tratado de Ancón. Perú cede Tarapacá a Chile y Tacna y Arica quedan bajo administración chilena por 10 años.</text>
 
  <image name="mapa_territorios_perdidos" />
+ <text speaker="Narrador">El tratado marca el fin oficial de la guerra, pero también el inicio de una nueva etapa para las naciones involucradas. Las heridas tardarán décadas en sanar, pero las lecciones de heroísmo perdurarán para siempre.</text>
 
  <!-- Escena 18: Regreso al presente -->
  <image name="estudiante_cerrando_libro_biblioteca" />
  <text speaker="Narrador">Al cerrar el libro, regreso a la biblioteca. Mi mente está llena de las imágenes heroicas de Miguel Grau, Francisco Bolognesi, Alfonso Ugarte y Andrés Avelino Cáceres. La Guerra del Pacífico nos enseña sobre el valor, el sacrificio y el amor a la patria.</text>
+
+ <text speaker="Narrador">He sido testigo de páginas gloriosas y dolorosas de nuestra historia. Los héroes de la Guerra del Pacífico nos recuerdan que el verdadero triunfo no siempre se mide en victorias militares, sino en la grandeza del espíritu humano frente a la adversidad.</text>
 </story>
